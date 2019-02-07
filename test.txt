@@ -1,3 +1,5 @@
  Hi this is new git file 
 
-this is testing git 
+tohis is testing git 
+
+this file now modify 
